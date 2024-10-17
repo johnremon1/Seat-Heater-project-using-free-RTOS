@@ -1,0 +1,6 @@
+File_System\DET.obj: ../File_System/DET.c
+File_System\DET.obj: ..\File_System\DET.h
+File_System\DET.obj: ..\File_System\project_cfg.h
+File_System\DET.obj: D:/embede\\ systems\\ course/advnaced\\ diploma/RTOS/final\\ RTOS\\ project/Final_RTOS_project/Common/std_types.h
+File_System\DET.obj: D:\embede\\ systems\\ course\advnaced\\ diploma\RTOS\final\\ RTOS\\ project\Final_RTOS_project\Common\Compiler.h
+File_System\DET.obj: D:\embede\\ systems\\ course\advnaced\\ diploma\RTOS\final\\ RTOS\\ project\Final_RTOS_project\Common\Common_Macros.h
